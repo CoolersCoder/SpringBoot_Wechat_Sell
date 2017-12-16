@@ -31,7 +31,7 @@ npm run build
 * WeChat payment system
 * Spring Boot + WebSocket 
 
-## Sql Scheme
+## MySql 5.7 Scheme
 ``` sql
 -- 类目
 create table `product_category` (
