@@ -19,7 +19,11 @@ npm run build
 #最后部署dist文件到nginx/iis/apache  推荐使用nginx 
 ``` 
 
-## 技术点
+## Technical sets
+* Vue.js
+* maven
+* Tomcat
+* nginx
 * Spring Boot
 * distribute Session
 * distribute lock
@@ -28,7 +32,7 @@ npm run build
 * WebChart payment system
 * Spring Boot + WebSocket 
 
-## Sql语句
+## Sql Scheme
 ``` sql
 -- 类目
 create table `product_category` (
@@ -99,5 +103,3 @@ create table `seller_info` (
     primary key (`id`)
 ) comment '卖家信息表';
 ```
-
-## 老铁 如果项目对你有任何一点帮助的话 请给个star
