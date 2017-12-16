@@ -21,11 +21,11 @@ npm run build
 
 ## 技术点
 * Spring Boot
-* 分布式Session
-* 分布式锁
-* 微信授权登录
-* 微信消息推送
-* 微信支付与退款
+* distribute Session
+* distribute lock
+* WebChart authentication
+* WebChart Message pushing system
+* WebChart payment system
 * Spring Boot + WebSocket 
 
 ## Sql语句
