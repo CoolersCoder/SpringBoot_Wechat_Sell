@@ -1,5 +1,4 @@
-# SpringBoot微信点餐系统
-
+# SpringBoot WeChat order system
 
 > 以Spring Boot和微信特性为核心技术栈，实现一个从下单到接单流程完整，包含买家端和卖家端前后台功能的微信点餐系统 ,采用前后端分离，前端采用vue实现,后端使用Spring Boot开发 前端项目地址  [传送门](https://github.com/ldlood/VUE-ELM " 传送门")  注意 这个前端代码和这个项目中的那个前端代码是有差别的请使用项目中的那个 前端代码.7z  请修改 前端代码/config/index.js中的 sellUrl,openidUrl,wechatPayUrl为自己的路径
 还有 项目中的支付 授权 退款，请使用自己的appid
@@ -27,9 +26,9 @@ npm run build
 * Spring Boot
 * distribute Session
 * distribute lock
-* WebChart authentication
-* WebChart Message pushing system
-* WebChart payment system
+* WeChat authentication
+* WeChat Message pushing system
+* WeChat payment system
 * Spring Boot + WebSocket 
 
 ## Sql Scheme
